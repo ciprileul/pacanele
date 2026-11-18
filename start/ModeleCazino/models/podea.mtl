@@ -1,0 +1,10 @@
+# materiale generate de tools/gen_models.py
+
+newmtl podea_mocheta
+Ka 0.000 0.000 0.000
+Kd 1.000 1.000 1.000
+Ks 0.000 0.000 0.000
+Ns 2.0
+d 1.000
+illum 2
+map_Kd textures/mocheta.png

@@ -1,0 +1,92 @@
+# materiale generate de tools/gen_models.py
+
+newmtl bj_postav
+Ka 0.000 0.000 0.000
+Kd 1.000 1.000 1.000
+Ks 0.020 0.020 0.020
+Ns 4.0
+d 1.000
+illum 2
+map_Kd textures/blackjack_postav.png
+
+newmtl bj_piele
+Ka 0.000 0.000 0.000
+Kd 0.100 0.050 0.030
+Ks 0.350 0.300 0.300
+Ns 40.0
+d 1.000
+illum 2
+
+newmtl bj_lemn
+Ka 0.000 0.000 0.000
+Kd 1.000 1.000 1.000
+Ks 0.400 0.350 0.300
+Ns 70.0
+d 1.000
+illum 2
+map_Kd textures/lemn.png
+
+newmtl bj_negru
+Ka 0.000 0.000 0.000
+Kd 0.030 0.030 0.035
+Ks 0.300 0.300 0.300
+Ns 60.0
+d 1.000
+illum 2
+
+newmtl bj_auriu
+Ka 0.000 0.000 0.000
+Kd 0.780 0.580 0.200
+Ks 0.900 0.750 0.400
+Ns 120.0
+d 1.000
+illum 2
+
+newmtl bj_crom
+Ka 0.000 0.000 0.000
+Kd 0.550 0.570 0.620
+Ks 0.950 0.950 0.950
+Ns 180.0
+d 1.000
+illum 2
+
+newmtl bj_jetoane
+Ka 0.000 0.000 0.000
+Kd 1.000 1.000 1.000
+Ks 0.300 0.300 0.300
+Ns 40.0
+d 1.000
+illum 2
+map_Kd textures/jetoane.png
+
+newmtl bj_jeton_margine
+Ka 0.000 0.000 0.000
+Kd 0.850 0.850 0.820
+Ks 0.300 0.300 0.300
+Ns 30.0
+d 1.000
+illum 2
+
+newmtl bj_sabot
+Ka 0.000 0.000 0.000
+Kd 0.350 0.020 0.040
+Ks 0.800 0.800 0.800
+Ns 120.0
+d 1.000
+illum 2
+
+newmtl bj_carti
+Ka 0.000 0.000 0.000
+Kd 0.950 0.950 0.920
+Ks 0.100 0.100 0.100
+Ns 10.0
+d 1.000
+illum 2
+
+newmtl bj_scaun
+Ka 0.000 0.000 0.000
+Kd 0.450 0.040 0.060
+Ks 0.500 0.400 0.400
+Ns 50.0
+d 1.000
+illum 2

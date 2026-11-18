@@ -1,0 +1,95 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="JocuriPeAparate">
+      <UniqueIdentifier>{6A1C2B3D-4E5F-4A6B-8C7D-9E0F1A2B3C4D}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ModeleCazino">
+      <UniqueIdentifier>{7B2D3C4E-5F60-4B7C-9D8E-0F1A2B3C4D5E}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="JocuriPeAparate\demo\main_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ModeleCazino\demo\casino_demo.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="ModeleCazino\src\ObjModel.cpp">
+      <Filter>ModeleCazino</Filter>
+    </ClCompile>
+    <ClCompile Include="ModeleCazino\src\CasinoScene.cpp">
+      <Filter>ModeleCazino</Filter>
+    </ClCompile>
+    <ClCompile Include="JocuriPeAparate\src\GameCatalog.cpp">
+      <Filter>JocuriPeAparate</Filter>
+    </ClCompile>
+    <ClCompile Include="JocuriPeAparate\src\PngDecoder.cpp">
+      <Filter>JocuriPeAparate</Filter>
+    </ClCompile>
+    <ClCompile Include="JocuriPeAparate\src\Renderer2D.cpp">
+      <Filter>JocuriPeAparate</Filter>
+    </ClCompile>
+    <ClCompile Include="JocuriPeAparate\src\SlotEngine.cpp">
+      <Filter>JocuriPeAparate</Filter>
+    </ClCompile>
+    <ClCompile Include="JocuriPeAparate\src\SlotGame.cpp">
+      <Filter>JocuriPeAparate</Filter>
+    </ClCompile>
+    <ClCompile Include="JocuriPeAparate\src\SlotAudio.cpp">
+      <Filter>JocuriPeAparate</Filter>
+    </ClCompile>
+    <ClCompile Include="JocuriPeAparate\src\SlotUI.cpp">
+      <Filter>JocuriPeAparate</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="ModeleCazino\src\ObjModel.hpp">
+      <Filter>ModeleCazino</Filter>
+    </ClInclude>
+    <ClInclude Include="ModeleCazino\src\CasinoScene.hpp">
+      <Filter>ModeleCazino</Filter>
+    </ClInclude>
+    <ClInclude Include="JocuriPeAparate\src\FontData.hpp">
+      <Filter>JocuriPeAparate</Filter>
+    </ClInclude>
+    <ClInclude Include="JocuriPeAparate\src\GameCatalog.hpp">
+      <Filter>JocuriPeAparate</Filter>
+    </ClInclude>
+    <ClInclude Include="JocuriPeAparate\src\PngDecoder.hpp">
+      <Filter>JocuriPeAparate</Filter>
+    </ClInclude>
+    <ClInclude Include="JocuriPeAparate\src\Renderer2D.hpp">
+      <Filter>JocuriPeAparate</Filter>
+    </ClInclude>
+    <ClInclude Include="JocuriPeAparate\src\SlotEngine.hpp">
+      <Filter>JocuriPeAparate</Filter>
+    </ClInclude>
+    <ClInclude Include="JocuriPeAparate\src\SlotGL.hpp">
+      <Filter>JocuriPeAparate</Filter>
+    </ClInclude>
+    <ClInclude Include="JocuriPeAparate\src\SlotAudio.hpp">
+      <Filter>JocuriPeAparate</Filter>
+    </ClInclude>
+    <ClInclude Include="JocuriPeAparate\src\SlotUI.hpp">
+      <Filter>JocuriPeAparate</Filter>
+    </ClInclude>
+    <ClInclude Include="JocuriPeAparate\src\SlotUIImpl.hpp">
+      <Filter>JocuriPeAparate</Filter>
+    </ClInclude>
+    <ClInclude Include="JocuriPeAparate\src\SymbolAtlas.hpp">
+      <Filter>JocuriPeAparate</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

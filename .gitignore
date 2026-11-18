@@ -1,0 +1,11 @@
+# fisiere generate de Visual Studio (nu se pun pe GitHub)
+.vs/
+x64/
+Debug/
+Release/
+*.user
+*.pdb
+*.ilk
+*.ipch
+*.tlog
+__pycache__/
